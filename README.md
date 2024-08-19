@@ -9,6 +9,7 @@ The Windows Registry is a hierarchical database used by the Windows operating sy
 #
 ### Windows 11 Registry Diagram
 
+```
 Windows 11 Registry
 |
 +-- HKEY_CLASSES_ROOT (HKCR)
@@ -68,6 +69,7 @@ Windows 11 Registry
     |
     +-- Display Settings
          - Stores information about the current display configuration, including screen resolution, color depth, and refresh rate.
+```
 
 #
 ### Registry Mods
