@@ -182,6 +182,10 @@ Optional Double-Click Mods:
 - Use double-click to quickly switch between virtual desktops or to create a new one.
 
 #
+
+Alex: "*I have double-click turned off.*"
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
