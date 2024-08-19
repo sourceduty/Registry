@@ -183,7 +183,7 @@ Optional Double-Click Mods:
 
 #
 
-Alex: "*I have double-click turned off.*"
+> Alex: "*I have double-click turned off.*"
 
 #
 ### Related Links
