@@ -162,6 +162,26 @@ Backup and Restore:
 - Be prepared to restore the Registry if any modifications cause issues, either through a system restore or by importing the previously exported keys.
 
 #
+### Double-Click Mods
+
+![Mouse](https://github.com/user-attachments/assets/199eb508-668c-4d6d-8619-482996d1af35)
+
+Customizing the double-click behavior can enhance user experience and productivity, especially when it comes to how files, folders, and applications respond to double-clicks.
+
+Optional Double-Click Mods: 
+
+- Assign a custom action (like opening with a specific application, compressing a file, or moving it to a predefined folder) to double-clicking a file or folder.
+- Adjust the double-click speed dynamically based on the type of file or application in focus.
+- Use double-click to initiate a sequence of actions, such as opening a file, copying it to a clipboard, and launching a related application.
+- Quickly preview the contents of a file with a double-click without fully opening it in its associated application.
+- Use double-click on the title bar or border of a window to toggle between maximized, minimized, or custom window sizes.
+- Double-click a desktop icon to switch to another user profile or log in as a different user quickly.
+- Use double-click to toggle specific system settings, like turning on/off Wi-Fi, switching power plans, or enabling/disabling Night Light.
+- Double-click a file or text to automatically copy it to the clipboard without additional keyboard commands.
+- Double-click a specific file or icon to launch multiple applications or open multiple files at once.
+- Use double-click to quickly switch between virtual desktops or to create a new one.
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
