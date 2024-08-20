@@ -185,6 +185,8 @@ Optional Double-Click Mods:
 
 > Alex: "*I have double-click turned off.*"
 
+Using single clicks instead of double-clicks reduces the action required by 50% per item which streamlines navigation.
+
 #
 ### Related Links
 
